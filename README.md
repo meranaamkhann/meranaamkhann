@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a Computer Science undergraduate and software developer focused on backend engineering, system design, and applied AI/ML.<br><br>I primarily work with Java and Spring Boot to build RESTful APIs, secure authentication systems, and database-driven applications. I also explore Python, machine learning, and AI-powered solutions to solve real-world problems.<br><br>Currently focusing on:<br>- Backend development with Java and Spring Boot<br>- Data Structures & Algorithms<br>- Database design and system architecture<br>- REST APIs, authentication, and security<br>- Machine Learning and AI integration<br>- Docker, CI/CD, and cloud deployment<br><br>I believe in building projects that solve actual problems, understanding the engineering behind them, and continuously improving through hands-on development.
 
 
